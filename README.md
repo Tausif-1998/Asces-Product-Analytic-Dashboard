@@ -9,6 +9,7 @@ Developed a high-level Product Analytics Dashboard that provides insights into k
 3. Create a Dashboard : Create Visualizations.
 
 **SQL query to import data from SQL to Power BI**
+
 with cte as(select 
 pd.Product,pd.category,pd.brand, pd.description, pd.image_url, pd.sale_price, pd.Cost_price,
 ps.customer_type, ps.Date, ps.units_sold, ps.discount_band, ps.country,
