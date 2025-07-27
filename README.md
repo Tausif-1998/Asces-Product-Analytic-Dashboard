@@ -2,11 +2,11 @@
 
 Developed a high-level Product Analytics Dashboard that provides insights into key product performance metrics. This dashboard will support strategic decision-making and allow business team to track performance trends effectively.
 
-# Steps-to-follow
+## Steps followed
 1. Build a Database: Extract data from CSV files.
 2. Develop SQL: Create a SQL query to view required data.
 2. Connect to Power BI : Import data from SQL to Power BI by using SQL query.
-3. Create a Dashboard : Create Visualizations.
+3. Create a Dashboard: Create Visualizations.
 
 **SQL query to import data from SQL to Power BI**
 
