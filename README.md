@@ -1,6 +1,8 @@
 # Asces-Product-Analytic-Dashboard
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+<ins>**Data source: SQL Server**</ins>
+
 Developed a high-level Product Analytics Dashboard that provides insights into key product performance metrics. This dashboard will support strategic decision-making and allow business team to track performance trends effectively.
 
 ---
